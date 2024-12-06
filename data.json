@@ -1,6 +1,13 @@
 [
-  { "Employee_Name": "Dr Divya K S", "Speed_Dial": 1416, "Department": "Infectious Disease" },
-  { "Employee_Name": "Dr Satish K M", "Speed_Dial": 1464, "Department": "Dermatology" },
+  { 
+    "Employee_Name": "Dr Divya K S", 
+    "Speed_Dial": 1416, 
+    "Department": "Infectious Disease" 
+  },
+  { "Employee_Name": "Dr Satish K M", 
+    "Speed_Dial": 1464, 
+    "Department": "Dermatology" 
+  },
   {
     "Employee_Name": "Dr Nagavalli",
     "Speed_Dial": 1467,
