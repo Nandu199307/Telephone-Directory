@@ -1,5 +1,5 @@
 // Fetch data from the JSON file
-fetch('https://apollohospitals-my.sharepoint.com/:u:/p/1241584/Ef572sDZOjZGpHIMhN6XX1wBQRQGtWFpGjPExkdtqszycg?e=SmcVmR')
+fetch('data.json')
    .then(response => response.json())
    .then(data => {
        const tbody = document.querySelector('#directory tbody');
